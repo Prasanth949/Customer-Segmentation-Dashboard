@@ -1,4 +1,4 @@
-# 📊 Customer Segmentation Dashboard | Power BI & SQL
+#📊 Customer Segmentation Dashboard | Power BI & SQL
 ---
 
 📌 Project Overview
