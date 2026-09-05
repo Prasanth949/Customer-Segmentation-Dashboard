@@ -118,9 +118,9 @@ The dashboard provides insights into:
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
-text
+```text
 Customer-Segmentation-Dashboard/
 │
 ├── README.md
@@ -136,3 +136,4 @@ Customer-Segmentation-Dashboard/
 │
 └── Screenshots/
     └── Dashboard.png
+```
